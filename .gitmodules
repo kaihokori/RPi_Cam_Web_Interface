@@ -1,0 +1,3 @@
+[submodule "etc/raspycam"]
+	path = etc/raspycam
+	url = https://github.com/kaihokori/RasPyCam
